@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://wmat.github.com/sitemap.xml 
